@@ -30,6 +30,14 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.pokrass.bird.MainActivity" />
         </activity>
+        <activity
+            android:name="com.pokrass.bird.QuizActivity"
+            android:label="@string/title_activity_quiz"
+            android:parentActivityName="com.pokrass.bird.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.pokrass.bird.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

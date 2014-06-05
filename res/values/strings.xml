@@ -3,10 +3,15 @@
 
     <string name="app_name">BirdApp</string>
     <string name="hello_world">Hello world!</string>
+    <string name="welcome">Learn To Bird!</string>
+    <string name="quiz">Start quiz!</string>
+    <string name="reference">Reference</string>
+    <string name="identify_call">What\'s that call?</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_display_message">MyMessage</string>
+    <string name="title_activity_quiz">QuizActivity</string>
 
 </resources>
